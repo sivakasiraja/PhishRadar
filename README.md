@@ -1,3 +1,1 @@
-﻿# PhishRadar-Real Time Phishing URL and Text Classification
-# PhishRadar-Real Time Phishing URL and Text Classification   
-
+# PhishRadar-Real Time Phishing URL and Text Classification
