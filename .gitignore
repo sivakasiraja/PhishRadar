@@ -1,0 +1,18 @@
+# Virtual environment
+phishradar_distilbert/
+venv/
+env/
+
+# Models
+models/
+
+# Dataset
+Data/
+
+# Cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
